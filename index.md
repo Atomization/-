@@ -1,8 +1,12 @@
-<font color=red>**WARNING**</font>
+**<font size=5 color=red>警告！</font>**
+
+**<font size=5 color=red> WARNING!!</font>**
+
+**<font size=5 color=red>危ない！！！</font>**
 
 **一个无聊的碎碎念的保留地，用于放置自以为是的思考和自我意识过剩的独白**
 
-<font size=7>catalog/目录/目次</font>
+<font size=7>目录/catalog/目次</font>
 
 - [2020](#2020)
 
