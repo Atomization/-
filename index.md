@@ -14,7 +14,7 @@
 
 - 2019
 
-  - [关于我的第二年大一]
+  - [关于我的第二年大一](https://atomization.github.io/As-a-Fake-Freshman-in-SYSU/)
   - [写在20岁生日](https://atomization.github.io/Written-on-20th-Birthday/)
 
 - 2020
