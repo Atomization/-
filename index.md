@@ -6,7 +6,7 @@
 
 - 2019
 
-  - [写在20岁生日](https://atomization.github.io/Written-on-the-20th-Birthday/)
+  - [写在20岁生日](https://atomization.github.io/Written-on-20th-Birthday/)
 
 - 2020
 
