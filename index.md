@@ -1,4 +1,4 @@
-**<font color=DodgerBlue>一个无聊的碎碎念的保留地，用于放置自以为是的思考和意识过剩的独白</font>**
+**<font color=DodgerBlue>一个无聊的碎碎念的保留地，用于放置自以为是的思考和意识过剩的独白。</font>**
 
 ------
 
@@ -6,7 +6,7 @@
 
 - 2017
 
-  - [心里梦里都是你-写给重庆南开中学]
+  - [心里梦里都是你-写给重庆南开中学](https://atomization.github.io/To-Chongqing-Nankai-Secondery-School/)
 
 - 2018
 
