@@ -35,7 +35,7 @@
   
   
   - [七月拾遗](https://atomization.github.io/Supplement-of-July/)
-  - 二十二歳の話し
+  - [二十二歳の話し](https://atomization.github.io/Written-on-22nd-Birthday/)
 
 ------
 
