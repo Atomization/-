@@ -55,6 +55,11 @@
 
   - [夜に駆ける](https://atomization.github.io/Run-at-Night/)
 
+  - [七月拾遗](https://atomization.github.io/Supplement-of-July/)
+
+  - [二十二歳の話し](https://atomization.github.io/Written-on-22nd-Birthday/)
+
+
 ------
 
 **<font size=6>これからは日記でございます。</font>**
